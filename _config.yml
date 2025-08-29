@@ -1,8 +1,14 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 'Course Number: Course Name'
+description: 'Course Website (Template) for Course Number: Course Name by Course Instructor at Course Institution'
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+just_the_docs:
+  math:
+    provider: katex
+
+url: https://
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  External Link 1: https://www.google.com
+  External Link 2: https://www.google.com
+  Professor Bingxin Zhao: https://www.bingxinzhao.com
